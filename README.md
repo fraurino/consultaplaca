@@ -29,20 +29,19 @@ Aplicativo desenvolvido em Delphi 11 (Pascal) que realiza a automação da leitu
 Este repositório inclui um executável de testes para que interessados possam validar o funcionamento antes de adquirir o código-fonte.
 
 🚀 **Como Usar**</br>
-Baixe o arquivo ConsultaPlaca.exe;</br>
+Baixe o arquivo ConsultaPlaca.zip;</br>
 Execute o programa;</br>
 Informe uma placa válida;</br>
 Clique em Consultar e aguarde os dados retornados da consulta pública;</br>
 O sistema exibirá os dados encontrados na página, sem acessar áreas restritas ou protegidas.</br>
 
-📌 **Observações Legais**<
-Este sistema não realiza scraping de áreas protegidas, não autentica usuários, nem burla mecanismos de proteção (como CAPTCHA, login ou cookies de sessão);</br>
+📌 **Observações Legais**
 Os dados são acessados da mesma forma como qualquer cidadão visualiza pelo navegador, apenas de forma automatizada;</br>
 O autor não se responsabiliza por qualquer uso indevido do sistema por terceiros;</br>
 O código-fonte é fornecido com a finalidade de estudos, integração em soluções privadas ou uso institucional dentro dos limites legais;</br>
 É responsabilidade do usuário final verificar os Termos de Uso do site de onde os dados são extraídos.</br>
 
-💰 **Comercialização**</br>
+💰 **Comercialização do Projeto**</br>
 Valor: R$ 220,00</br>
 
 **Inclui:**</br>
