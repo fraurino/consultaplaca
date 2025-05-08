@@ -49,5 +49,9 @@ Valor: R$ 220,00</br>
 - Código-fonte Delphi completo;</br>
 - Executável funcional para testes;</br>
 
+Verificação de Segurança no VirusTotal</br>
+O aplicativo foi submetido ao VirusTotal, uma plataforma de verificação de segurança que analisa arquivos em busca de potenciais ameaças. Você pode consultar o relatório completo sobre a segurança do aplicativo clicando no link abaixo:
+[Ver análise no VirusTotal](https://www.virustotal.com/gui/file-analysis/ZWE4N2I1NmQ5YWUyZDA4MGQwY2ExMTg3ZDhiNTI0ZmI6MTc0Njc0NDIxMg==)
+
 📱 Contato via WhatsApp: https://wa.me/559888923379
 
