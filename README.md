@@ -42,7 +42,7 @@ O código-fonte é fornecido com a finalidade de estudos, integração em soluç
 É responsabilidade do usuário final verificar os Termos de Uso do site de onde os dados são extraídos.</br>
 
 💰 **Comercialização do Projeto**</br>
-Valor: R$ 220,00</br>
+Valor: R$ 397,00</br>
 
 **Inclui:**</br>
 - Código-fonte Delphi completo;</br>
