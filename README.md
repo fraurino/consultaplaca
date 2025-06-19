@@ -2,7 +2,12 @@
 ⚠️ Atenção: Este sistema não utiliza APIs privadas, não realiza login ou autenticação e não burla mecanismos de segurança. Ele apenas automatiza a leitura de informações já disponíveis publicamente a qualquer cidadão por meio do navegador.</br>
 O uso desta ferramenta é de responsabilidade do usuário final.</br>
 
-![image](https://github.com/user-attachments/assets/6b0cbbce-5d74-4e24-879f-206fdf1ebc70)
+Lazarus<br>
+![Imagem do WhatsApp de 2025-06-19 à(s) 12 27 10_bcc58335](https://github.com/user-attachments/assets/6f831431-cc51-402b-978b-524667e00bec) <br><br>
+Delphi<br>
+![image](https://github.com/user-attachments/assets/adc7f375-f8b1-4789-a9d8-694723556161)
+
+
 
 🔍**Sobre o Projeto**</br>
 Aplicativo desenvolvido em Delphi 11 (Pascal) que realiza a automação da leitura de dados públicos veiculares, por meio da análise do conteúdo HTML exibido em páginas públicas de consulta.</br>
