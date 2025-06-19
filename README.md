@@ -27,6 +27,7 @@ Aplicativo desenvolvido em Delphi 11 (Pascal) que realiza a automação da leitu
 
 💻 **Tecnologias**</br>
 - Delphi 11</br>
+- Lazarus 4.0 FPC 3.2.2</br>
 - Leitura de conteúdo HTML com parsing via strings</br>
 - Compatível com Windows (x86 e x64)</br>
 
